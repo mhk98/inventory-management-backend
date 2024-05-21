@@ -1,0 +1,139 @@
+{"level":"error","message":"/api/v1/user/signup Validation error","timestamp":"2023-02-27T16:23:04.291Z"}
+{"level":"error","message":"/api/v1/user/signup Validation error","timestamp":"2023-02-27T16:23:10.157Z"}
+{"level":"error","message":"/api/v1/user/signup Validation error: Invalid validator function: message","timestamp":"2023-06-06T09:34:14.609Z"}
+{"level":"error","message":"/api/v1/user/signup Validation error: Invalid validator function: message","timestamp":"2023-06-06T09:37:56.956Z"}
+{"level":"error","message":"/api/v1/user/signup Validation error: Invalid validator function: message","timestamp":"2023-06-06T09:38:56.663Z"}
+{"level":"error","message":"/api/v1/user/signup Validation error: Invalid validator function: message","timestamp":"2023-06-06T09:39:51.950Z"}
+{"level":"error","message":"/api/v1/user/signup WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2023-06-06T10:28:05.535Z"}
+{"level":"error","message":"/api/v1/user/signup WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2023-06-06T10:28:49.837Z"}
+{"level":"error","message":"/api/v1/user/signup WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2023-06-06T10:29:31.492Z"}
+{"level":"error","message":"/api/v1/user/signup WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2023-06-06T10:29:32.387Z"}
+{"level":"error","message":"/api/v1/user/signup WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2023-06-06T10:29:33.091Z"}
+{"level":"error","message":"/api/v1/item Cannot access 'Item' before initialization","timestamp":"2023-06-06T14:39:59.368Z"}
+{"level":"error","message":"/api/v1/item Cannot access 'Item' before initialization","timestamp":"2023-06-06T14:41:39.597Z"}
+{"level":"error","message":"/api/v1/item Cannot access 'Item' before initialization","timestamp":"2023-06-06T14:41:40.618Z"}
+{"level":"error","message":"/api/v1/item Cannot access 'Item' before initialization","timestamp":"2023-06-06T14:41:41.628Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:44:34.535Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:44:55.162Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:44:57.423Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:45:35.119Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:46:01.048Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:46:03.312Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T14:46:04.044Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'create')","timestamp":"2023-06-06T16:13:51.527Z"}
+{"level":"error","message":"/api/v1/item item_Name is not defined","timestamp":"2023-06-08T14:49:34.405Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'path')","timestamp":"2023-06-08T14:51:10.198Z"}
+{"level":"error","message":"/api/v1/item Item.find is not a function","timestamp":"2023-06-08T17:06:37.414Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:21:53.363Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:21:53.367Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:21:53.371Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:21:53.392Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:22:41.833Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:22:41.845Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:22:48.819Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:22:48.821Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:18.843Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:18.846Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:19.805Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:19.826Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:19.844Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:19.925Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:45.824Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:45.831Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:51.816Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:29:51.823Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:02.276Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:02.286Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:02.299Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:02.314Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:35.825Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:35.841Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:40.674Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:31:40.676Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:32:04.111Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:32:04.113Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:32:04.128Z"}
+{"level":"error","message":"/api/v1/item/undefined Truncated incorrect DOUBLE value: 'undefined'","timestamp":"2023-06-08T18:32:04.145Z"}
+{"level":"error","message":"/api/v1/cart Item is not defined","timestamp":"2023-06-10T10:48:39.324Z"}
+{"level":"error","message":"/api/v1/cart Item is not defined","timestamp":"2023-06-10T10:52:32.382Z"}
+{"level":"error","message":"/api/v1/cart notNull Violation: cart.name cannot be null,\nnotNull Violation: cart.price cannot be null,\nnotNull Violation: cart.quantity cannot be null","timestamp":"2023-06-10T10:53:32.255Z"}
+{"level":"error","message":"/api/v1/cart notNull Violation: cart.name cannot be null,\nnotNull Violation: cart.price cannot be null,\nnotNull Violation: cart.quantity cannot be null","timestamp":"2023-06-10T10:54:21.340Z"}
+{"level":"error","message":"/api/v1/cart notNull Violation: cart.name cannot be null,\nnotNull Violation: cart.price cannot be null,\nnotNull Violation: cart.quantity cannot be null","timestamp":"2023-06-10T10:57:03.614Z"}
+{"level":"error","message":"/api/v1/cart this.build(...).save is not a function","timestamp":"2023-06-10T12:15:27.868Z"}
+{"level":"error","message":"/api/v1/cart this.build(...).save is not a function","timestamp":"2023-06-10T12:15:28.852Z"}
+{"level":"error","message":"/api/v1/cart this.build(...).save is not a function","timestamp":"2023-06-10T12:15:29.835Z"}
+{"level":"error","message":"/api/v1/cart this.build(...).save is not a function","timestamp":"2023-06-10T12:15:47.124Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:20:28.796Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:20:28.807Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:20:32.390Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:20:32.393Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:20:55.805Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:20:55.811Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:21:00.365Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:21:00.374Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:22:41.550Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:22:41.557Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:22:52.828Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:22:52.841Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:06.752Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:06.760Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:11.647Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:11.650Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:46.888Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:46.900Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:58.627Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:23:58.633Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:03.952Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:03.959Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:08.218Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:08.225Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:26.099Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:26.105Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:26.112Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:26.121Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:26.125Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:26.128Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:24:44.891Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:25:14.301Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:25:15.394Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:25:20.976Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:25:20.981Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:06.076Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:06.082Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:08.279Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:08.284Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:41.967Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:42.009Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:47.028Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:26:47.034Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:27:20.616Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:27:20.621Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:27:22.367Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:27:22.373Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:27:30.039Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:27:30.044Z"}
+{"level":"error","message":"/api/v1/item Cannot read properties of undefined (reading 'path')","timestamp":"2023-06-10T12:27:47.103Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:28:19.148Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:28:19.179Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:28:47.907Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:29:20.087Z"}
+{"level":"error","message":"/api/v1/item Unknown column 'item_Name' in 'field list'","timestamp":"2023-06-10T12:29:20.108Z"}
+{"level":"error","message":"/api/v1/cart notNull Violation: cart.name cannot be null","timestamp":"2023-06-10T12:38:55.429Z"}
+{"level":"error","message":"/api/v1/cart data is not defined","timestamp":"2023-06-10T12:40:41.174Z"}
+{"level":"error","message":"/api/v1/cart data is not defined","timestamp":"2023-06-10T12:40:41.186Z"}
+{"level":"error","message":"/api/v1/cart notNull Violation: cart.name cannot be null","timestamp":"2023-06-10T12:42:10.909Z"}
+{"level":"error","message":"/api/v1/cart notNull Violation: cart.name cannot be null","timestamp":"2023-06-10T12:42:29.581Z"}
+{"level":"error","message":"/api/v1/cart Cannot read properties of undefined (reading 'length')","timestamp":"2023-06-10T12:43:33.038Z"}
+{"level":"error","message":"/api/v1/item/search/10 search is not defined","timestamp":"2023-06-13T16:53:32.518Z"}
+{"level":"error","message":"/api/v1/item/search/price=1000 search is not defined","timestamp":"2023-06-13T16:54:04.946Z"}
+{"level":"error","message":"/api/v1/item/search/price=1000 search is not defined","timestamp":"2023-06-13T16:54:06.689Z"}
+{"level":"error","message":"/api/v1/item/search/1000 search is not defined","timestamp":"2023-06-13T16:54:27.824Z"}
+{"level":"error","message":"/api/v1/item/search?price=1000 search is not defined","timestamp":"2023-06-13T17:01:15.587Z"}
+{"level":"error","message":"/api/v1/item?100 search is not defined","timestamp":"2023-06-13T17:03:33.988Z"}
+{"level":"error","message":"/api/v1/item?price=100 search is not defined","timestamp":"2023-06-13T17:03:54.746Z"}
+{"level":"error","message":"/api/v1/item?price=1000 search is not defined","timestamp":"2023-06-13T17:04:10.527Z"}
+{"level":"error","message":"/api/v1/item?item_Price=1000 search is not defined","timestamp":"2023-06-13T17:05:01.623Z"}
+{"level":"error","message":"/api/v1/item search is not defined","timestamp":"2023-06-13T17:08:03.480Z"}
+{"level":"error","message":"/api/v1/item search is not defined","timestamp":"2023-06-13T17:08:09.349Z"}
+{"level":"error","message":"/api/v1/item filter is not defined","timestamp":"2023-06-13T17:09:14.309Z"}
+{"level":"error","message":"/api/v1/item/search/1000 search is not defined","timestamp":"2023-06-13T17:12:34.814Z"}
